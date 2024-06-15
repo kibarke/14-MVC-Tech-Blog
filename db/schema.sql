@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS operant_db;
+CREATE DATABASE operant_db;

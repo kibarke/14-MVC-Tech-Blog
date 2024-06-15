@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Daniel Fenton",
+      "email": "ghostboi@fentonmail.com",
+      "password": "password12345"
+    },
+    {
+      "name": "Percy Jackson",
+      "email": "seaweedbrain@hermesmail.com",
+      "password": "password12345"
+    },
+    {
+      "name": "Harry Potter",
+      "email": "dachosen1@owlmail.com",
+      "password": "password12345"
+    },
+    {
+      "name": "Peter Parker",
+      "email": "scienceyspider@.com",
+      "password": "password12345"
+    },
+    {
+      "name": "Toph Beifong",
+      "email": "the_blind_bandit@cabbagecorp.com",
+      "password": "icantread12345"
+    }
+  ]
+  
